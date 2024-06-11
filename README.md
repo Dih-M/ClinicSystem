@@ -41,7 +41,5 @@ private static final String URL = "jdbc:mysql://localhost:3306/clinic";
 private static final String USER = "seu_usuario";
 private static final String PASSWORD = "sua_senha";
 
-5. Baixar a Biblioteca JDBC do MySQL
-Faça o download da biblioteca JDBC do MySQL a partir do site oficial.
-
-Adicione o arquivo .jar ao classpath do seu projeto.
+5. Baixar a Biblioteca JDBC do MySQL:
+Faça o download da biblioteca JDBC do MySQL a partir do site oficial. Adicione o arquivo .jar ao classpath do seu projeto.
