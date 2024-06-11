@@ -43,3 +43,17 @@ private static final String PASSWORD = "sua_senha";
 
 5. Baixar a Biblioteca JDBC do MySQL:
 Faça o download da biblioteca JDBC do MySQL a partir do site oficial. Adicione o arquivo .jar ao classpath do seu projeto.
+
+### 4. Importando e Executando o Projeto no Eclipse
+Clone o repositório:
+git clone https://github.com/Dih-M/ClinicSystem.git
+
+Importe o projeto no Eclipse:
+
+Abra o Eclipse.
+Vá para File > Import.
+Selecione Existing Maven Projects e clique em Next.
+Navegue até o diretório onde o projeto foi clonado e clique em Finish.
+
+Execute a aplicação:
+No Package Explorer, navegue até a classe principal do projeto "WelcomeWindow.java"
