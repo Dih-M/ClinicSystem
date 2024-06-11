@@ -37,7 +37,6 @@ CREATE DATABASE clinic;
 4. Configurar a Conexão com o Banco de Dados
 Atualize o arquivo DatabaseManager.java com suas credenciais de banco de dados MySQL:
 
-// Configurações de conexão com o MySQL
 private static final String URL = "jdbc:mysql://localhost:3306/clinic";
 private static final String USER = "seu_usuario";
 private static final String PASSWORD = "sua_senha";
